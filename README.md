@@ -12,6 +12,6 @@ Puedes consultar también desde el navegador en [cnel-ficha.tinguar.com](https:/
 
 ## Contribuyentes
 
-- **Técn. Alberto Guaman** - Tinguar
+- **Tnlgo. Alberto Guaman** - Tinguar
 - **Ing. Jaime Magallanes**
-- **Técn. Kevin Célleri**
+- **Tnlgo. Kevin Célleri**
